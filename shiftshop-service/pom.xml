@@ -28,7 +28,7 @@
 
         <!-- =========== DEPENDENCIES VERSIONS ============ -->
         <flyway.version>6.2.4</flyway.version>
-        <mysql.version>8.0.11</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <jjwt.version>0.9.1</jjwt.version>
         <jacoco.version>0.8.3</jacoco.version>
 
